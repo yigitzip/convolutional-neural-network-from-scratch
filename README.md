@@ -37,6 +37,7 @@ The dataset directory is **not included** in the repository.
 
 Expected dataset structure:
 
+```
 MP3_Dataset/
 ├── train/
 │   ├── bicycle/
@@ -48,6 +49,8 @@ MP3_Dataset/
     │   └── *.jpg
     └── cat/
         └── *.jpg
+```
+
 
 Images are expected to be in `.jpg` format.
 
